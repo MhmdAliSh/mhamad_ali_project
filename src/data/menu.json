@@ -1,0 +1,67 @@
+[
+    
+    {
+      "id": 102,
+      "name": "Risotto ai Funghi",
+      "price": 18,
+      "image": "/assets/risotto_funghi.jpg",
+      "description": "Creamy mushroom risotto with truffle oil and fresh parsley."
+    },
+    {
+      "id": 103,
+      "name": "Lasagna Bolognese",
+      "price": 20,
+      "image": "/assets/lasagna_bolognese.jpg",
+      "description": "Layered pasta with slow-cooked beef ragu, béchamel, and mozzarella."
+    },
+    {
+      "id": 104,
+      "name": "Spaghetti Aglio e Olio",
+      "price": 11,
+      "image": "/assets/aglio_e_olio.jpg",
+      "description": "Classic garlic, olive oil, and chili pasta with parmesan."
+    },
+    {
+      "id": 105,
+      "name": "Chicken Alfredo",
+      "price": 17,
+      "image": "/assets/chicken_alfredo.jpg",
+      "description": "Fettuccine in creamy Alfredo sauce topped with grilled chicken."
+    },
+    {
+      "id": 106,
+      "name": "Gnocchi Sorrentina",
+      "price": 16,
+      "image": "/assets/gnocchi_sorrentina.jpg",
+      "description": "Potato gnocchi baked with tomato sauce, mozzarella, and basil."
+    },
+    {
+      "id": 107,
+      "name": "Pizza Quattro Stagioni",
+      "price": 15,
+      "image": "/assets/quattro_stagioni.jpg",
+      "description": "Pizza with ham, mushrooms, artichokes, olives, and mozzarella."
+    },
+    {
+      "id": 108,
+      "name": "Bruschetta Classica",
+      "price": 8,
+      "image": "/assets/bruschetta.jpg",
+      "description": "Grilled bread topped with tomato, basil, garlic, and olive oil."
+    },
+    {
+      "id": 109,
+      "name": "Tiramisu",
+      "price": 10,
+      "image": "/assets/tiramisu.jpg",
+      "description": "Classic Italian dessert made with espresso-soaked ladyfingers and mascarpone."
+    },
+    {
+      "id": 110,
+      "name": "Panna Cotta al Caramello",
+      "price": 9,
+      "image": "/assets/panna_cotta.jpg",
+      "description": "Silky panna cotta served with caramel sauce."
+    }
+  ]
+  
